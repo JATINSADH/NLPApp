@@ -1,0 +1,4 @@
+nlpcloud
+emoji
+tkinter
+json
